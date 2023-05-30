@@ -177,7 +177,9 @@ a {
   
     }
   
-   
+   .greeting{
+    text-align: center;
+   }
   
     .nav-links.nav-links-responsive {
   
